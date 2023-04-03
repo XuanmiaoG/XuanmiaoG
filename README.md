@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Gao Yuan, I am a current C.S. student @PennState
+- 👋 Hi, My name is Gao Yuan, I am a current C.S. student @PennState 
 - 👀 I’m interested in Web Develop, AI and Cybersecurity
 - 🌱 I’m currently learning Data Structure 
 - 💞️ I’m looking to collaborate on some small Project
