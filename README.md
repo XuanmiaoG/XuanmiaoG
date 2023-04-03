@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @XuanmiaoG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, My name is Gao Yuan, I am a current C.S. student @PennState
+- 👀 I’m interested in Web Develop, AI and Cybersecurity
+- 🌱 I’m currently learning Data Structure 
+- 💞️ I’m looking to collaborate on some small Project
+- 📫 How to reach me my email: yfg5173@psu.edu
 
 <!---
 XuanmiaoG/XuanmiaoG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
