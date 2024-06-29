@@ -1,4 +1,4 @@
-[CV.pdf](https://github.com/XuanmiaoG/XuanmiaoG/files/13866517/CV.pdf)
+
 
 - 👋 Hi, My name is Gao Yuan, I am a current C.S. student @UWMadison
 - 👀 I’m interested in Web Develop, AI and System
